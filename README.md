@@ -1,1 +1,0 @@
-# Tugas8_Dwi-Aurelia_09030582226038
