@@ -13,4 +13,5 @@ Dari tiga paper yang disebutkan di atas, terdapat beberapa metode yang dapat dit
 __Saran :__
 Saran pengembangan infrastruktur jaringan IoT sistem perekam detak jantung adalah dengan menambahkan lapisan keamanan berupa IDS yang menggunakan teknologi deep learning dan neural networks untuk deteksi intrusi yang lebih akurat dan adaptif. Topologi jaringan dapat diperluas dengan menambahkan server khusus untuk IDS yang terhubung ke setiap perangkat IoT dalam jaringan, sehingga dapat memantau dan melindungi data yang dikirim antar perangkat dengan lebih baik. Dengan demikian, keamanan infrastruktur jaringan IoT dapat ditingkatkan secara signifikan.
 
-![image](https://github.com/dwiaurelia/Tugas8_Dwi-Aurelia_09030582226038/assets/126183346/bf673952-bedc-433c-911c-80ca5a807e03)
+![image](https://github.com/dwiaurelia/Tugas8_Dwi-Aurelia_09030582226038/assets/126183346/a2b80b70-1868-4138-8ceb-8a749d4d7c46)
+
